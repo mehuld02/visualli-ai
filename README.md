@@ -57,7 +57,7 @@ Provides fast bundling, hot reload, and simple dev setup.
 
 # 🚀 Setup & Run Locally
 ## 1️⃣ Clone the repository
-git clone  https://github.com/mehuld02/visualli-ai.git
+git clone  https://github.com/mehuld02/visualli-ai.git  
 cd Visualli.ai
 
 ## 2️⃣ Install dependencies
@@ -87,5 +87,5 @@ Now open http://localhost:5173 in your browser 🎨
 
 # 🪪 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 You are free to use, modify, and distribute it with attribution.
